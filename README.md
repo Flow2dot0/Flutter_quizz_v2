@@ -1,4 +1,4 @@
-# flutter_quizz_skilleos
+# flutter_quizz
 
 A new Flutter project.
 
